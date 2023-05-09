@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //4
+
+    <!-- Login section! -->
+    <!-- Registration section! -->
+    <!-- Recovery section! -->
+
+    //bloodbank
+
+    //bloodbank
+    //patient
+    <!-- Brown Colors Interface -->
+    <color name="colorPrimary">#018996</color>
+    <color name="colorPrimaryDark">#018996</color>
+    <color name="colorAccent">#FB6C6D</color>
+
+    <color name="colorBackground">@android:color/white</color>
+    <color name="errorColor">#B71C1C</color>
+    <color name="infoColor">#0F4C81</color>
+    <color name="successColor">#4CAF50</color>
+
+    <color name="colorTextDark">@android:color/black</color>
+
+
+    <!--ImageChooser and Cropper Activity-->
+    ///
+
+    //color combine
+    //colors ses
+    <!--colors for modern ui-->
+
+    <!--colros for card-->
+    <color name="black">#000</color>
+    <color name="white">#FFF</color>
+
+    //bloodbank
+
+
+    <color name="green">#00c853</color>
+
+    <color name="toolbar">#244E4A</color>
+
+
+    <!-- Screens background color-->
+
+    <!-- dots inactive colors -->
+
+    <!-- dots active colors -->
+
+</resources>

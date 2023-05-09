@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="app_name">MELBET</string>
+    <string name="powered_by">Powered by</string>
+    <string name="developer_depository">Xonic It Foundation</string>
+
+    <!-- OnBoarding Screen Strings -->
+
+    <!-- Welcome Screen Strings -->
+
+    <!-- Sign Up & Login Screen Strings -->
+
+    <!--Navigation drawer items-->
+    <string name="noconnection">Kindly connect to a WIFI network or enable Mobile Data</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- Verify OTP Screen Strings -->
+
+    <!-- Forgot Password Screen Strings -->
+
+    <!-- Home Screen Strings -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- Preference Titles -->
+
+    <!-- Messages Preferences -->
+
+    <!-- Sync Preferences -->
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
